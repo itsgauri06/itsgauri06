@@ -1,11 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
+# Heyy there👋
 <!--
 **itsgauri06/itsgauri06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
-Welcome to my little corner of the internet! 👋
+Welcome to my little corner of the internet! ✨
 
 I'm a Computer Engineering student and a curious learner who loves exploring and trying out different things.
 
@@ -15,9 +16,9 @@ I like learning by actually building things — getting stuck, figuring out why 
 
 Still learning. Still experimenting. Still figuring things out.
 
-- 😄 Would love to collaborate on projects and 
+- 😄 Would love to collaborate on projects and hackathons
 - 🎮 Hobbies: Painting and journaling
 - 🔭 I’m currently working on making new projects
-- 🌱 I’m currently Learning how LLMs actually work
-- ⚡ Fun fact: I enjoy listening lofi music
+- 🌱 I’m currently learning how LLMs actually work
+- ⚡ Fun fact: I enjoy listening to lo-fi music
 

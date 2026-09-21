@@ -2,7 +2,7 @@
   <img src="./banner.png" width="100%">
 </p>
 
-# Heyy there👋
+<img src="./greeting.svg" alt="Hey, I'm Gauri" width="600" />
 <!--
 **itsgauri06/itsgauri06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

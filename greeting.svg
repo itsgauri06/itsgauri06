@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80" role="img" aria-label="Hey, I'm Gauri in multiple languages">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="460" y2="0">
+      <stop offset="0" stop-color="#e6edf3"/>
+      <stop offset="0.55" stop-color="#e6edf3"/>
+      <stop offset="1" stop-color="#e6edf3"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text {
+      font-size: 38px;
+      font-weight: 700;
+      font-family: -apple-system, "Segoe UI", "Noto Sans", "Noto Sans Devanagari", "Noto Sans CJK KR",
+                   "Noto Sans CJK JP", "Noto Sans CJK SC", "Malgun Gothic", "Yu Gothic",
+                   "Microsoft YaHei", "Nirmala UI", "Mangal", "Apple SD Gothic Neo", sans-serif;
+    }
+  </style>
+
+  <!-- English -->
+  <text x="2" y="50" lang="en" xml:lang="en" opacity="0" fill="url(#g)">Hey, I'm Gauri 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.025;0.1;0.125;1" values="0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.025;0.1;0.125;1" values="0 10;0 0;0 0;0 -10;0 -10"/>
+  </text>
+
+  <!-- German -->
+  <text x="2" y="50" lang="de" xml:lang="de" opacity="0" fill="url(#g)">Hallo, ich bin Gauri 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.125;0.15;0.225;0.25;1" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.125;0.15;0.225;0.25;1" values="0 10;0 10;0 0;0 0;0 -10;0 -10"/>
+  </text>
+
+  <!-- French -->
+  <text x="2" y="50" lang="fr" xml:lang="fr" opacity="0" fill="url(#g)">Salut, moi c'est Gauri 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.25;0.275;0.35;0.375;1" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.25;0.275;0.35;0.375;1" values="0 10;0 10;0 0;0 0;0 -10;0 -10"/>
+  </text>
+
+  <!-- Spanish -->
+  <text x="2" y="50" lang="es" xml:lang="es" opacity="0" fill="url(#g)">¡Hola, soy Gauri! 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.375;0.4;0.475;0.5;1" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.375;0.4;0.475;0.5;1" values="0 10;0 10;0 0;0 0;0 -10;0 -10"/>
+  </text>
+
+  <!-- Korean -->
+  <text x="2" y="50" lang="ko" xml:lang="ko" opacity="0" fill="url(#g)">안녕, 나는 Gauri 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.5;0.525;0.6;0.625;1" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.5;0.525;0.6;0.625;1" values="0 10;0 10;0 0;0 0;0 -10;0 -10"/>
+  </text>
+
+  <!-- Japanese -->
+  <text x="2" y="50" lang="ja" xml:lang="ja" opacity="0" fill="url(#g)">やあ、Gauri です 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.625;0.65;0.725;0.75;1" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.625;0.65;0.725;0.75;1" values="0 10;0 10;0 0;0 0;0 -10;0 -10"/>
+  </text>
+
+  <!-- Chinese -->
+  <text x="2" y="50" lang="zh" xml:lang="zh" opacity="0" fill="url(#g)">嗨，我是 Gauri 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.75;0.775;0.85;0.875;1" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.75;0.775;0.85;0.875;1" values="0 10;0 10;0 0;0 0;0 -10;0 -10"/>
+  </text>
+
+  <!-- Marathi -->
+  <text x="2" y="50" lang="mr" xml:lang="mr" opacity="0" fill="url(#g)">नमस्कार, मी गौरी 👋🏼
+    <animate attributeName="opacity" dur="24s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.875;0.9;0.975;1" values="0;0;1;1;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="24s" repeatCount="indefinite"
+      keyTimes="0;0.875;0.9;0.975;1" values="0 10;0 10;0 0;0 0;0 -10"/>
+  </text>
+
+  <!-- Divider line -->
+  <line x1="2" y1="72" x2="798" y2="72" stroke="#8b949e" stroke-opacity="0.3" stroke-width="1"/>
+</svg>
